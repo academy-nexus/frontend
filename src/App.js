@@ -1,8 +1,9 @@
+import { Router } from './containers'
+
+
 function App() {
   return (
-    <div className="App">
-      Nexus312
-    </div>
+    <Router />
   );
 }
 
